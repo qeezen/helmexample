@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  helmexample:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2023-01-06T11:08:11.0881776+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 67d87c187eec57afb3771dcc5d541a5908fa3c75e0ec32318111dac691cd008b
+    name: helmexample
+    type: application
+    version: 0.1.0
+    home: https://aidashi.github.io/helmexample
+    icon: https://img.tnblog.net/userdata/heads/a011e63c901a433e847b6f0d3dbe1a2f.jpeg
+    kubeVersion: ^1.10.0-0
+    keywords:
+    - milvus
+    - elastic
+    - vector
+    - search
+    - deploy
+    maintainers:
+    - email: 86382516@qq.com
+      name: bob
+      url: https://aidashi.github.io/helmexample
+    sources:
+    - https://github.com/AiDaShi/helmexample
+    urls:
+    - https://github.com/AiDaShi/helmexample/raw/main/charts/helmexample-0.1.0.tgz
+generated: "2023-01-06T11:08:11.0851748+08:00"
